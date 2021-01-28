@@ -5,6 +5,7 @@
 * https://youtube-dl.org/
 * https://www.linuxuprising.com/2019/10/how-to-download-youtube-playlist-and.html
 * https://www.gyan.dev/ffmpeg/builds/
+* Joe : https://stackoverflow.com/questions/1794547/how-can-i-make-an-are-you-sure-prompt-in-a-windows-batchfile
 # Installation
 * Install youtube-dl
   *  Download youtube-dl from https://yt-dl.org/latest/youtube-dl.exe
