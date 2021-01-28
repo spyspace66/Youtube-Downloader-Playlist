@@ -1,4 +1,5 @@
 @echo off
+:START
 set /p link=Enter Playlist URL  
 set /p type=Audio or Video (0 : audio, 1 : video) 
 set /p folder=Folder Name 
