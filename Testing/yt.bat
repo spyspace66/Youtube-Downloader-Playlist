@@ -8,12 +8,12 @@ if %type% == 0 (
   mkdir "%folder%"
   cd "%folder%"
   youtube-dl --ignore-errors --format bestaudio --extract-audio --audio-format mp3 --audio-quality 160K --yes-playlist %link%
-  Pause
+  GOTO START
 )else if %type% == 1 (
   G:
   cd G:\Youtube To Watch\YTVideo
   mkdir %folder%
   cd %folder%
   youtube-dl --ignore-errors --format bestvideo --yes-playlist %link%
-  Pause
+  GOTO START
 )
